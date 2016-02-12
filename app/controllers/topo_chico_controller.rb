@@ -1,0 +1,2 @@
+class TopoChicoController < ApplicationController
+end
